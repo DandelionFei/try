@@ -1,0 +1,41 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5896b0a4e377ac4242eb2bc785220c1c4fc052f4",
+    "jarFileModificationDate": "2013-11-05T00:28:06.033+08:00",
+    "location": "D:\\PhoneGap\\Dandelion\\DandelionF\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "phonegap-1.0.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cca83b0ca76076e4eb8e86f88f836b5ddfabbd10",
+    "jarFileModificationDate": "2011-08-19T06:38:29+08:00",
+    "location": "D:\\PhoneGap\\Dandelion\\DandelionF\\libs\\phonegap-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "34d1182407c92fcab06a6d769019b9f59c3c5e23",
+    "jarFileModificationDate": "2013-11-04T20:15:10.669+08:00",
+    "location": "D:\\eclipse-java-juno-SR2-win32-x86_64\\sdk\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  }
+]

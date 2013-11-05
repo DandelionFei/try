@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\PhoneGap\Dandelion\.metadata\.plugins\org.eclipse.jdt.core
+443385072.index
+958941741.index
+4257473074.index
+2263695060.index
